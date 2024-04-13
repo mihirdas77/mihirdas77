@@ -1,11 +1,12 @@
 [![masterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=mihirdas77&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">👋 Hey! I'm Mihir Das</h1>
 
 <h3 align="center">A passionate Frontend Developer from Jamshedpur, India</h3>
 
 
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=mihirdas77&icon=0&color=0)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="410" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
  🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me <a href="rishavchanda0@gmail.com">mihirdas7707@gmail.com</a> <br>
 
