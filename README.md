@@ -7,12 +7,12 @@
 [![](https://visitcount.itsvg.in/api?id=mihirdas77&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="410" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
- 🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me <a href="rishavchanda0@gmail.com">mihirdas7707@gmail.com</a> <br>
+<img align="right" alt="Coding" width="425" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+ 🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me <a href="rishavchanda0@gmail.com">mihirdas7707@gmail.com</a> <br><br>
 
 
 
-#🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___itzz_mihir___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mihir-das/) 
 
 # 💻 Tech Stack:
