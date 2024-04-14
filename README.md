@@ -29,6 +29,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mihirdas77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-
+![Snake animation](https://raw.githubusercontent.com/mihirdas77/mihirdas77/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
