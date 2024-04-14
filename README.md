@@ -29,18 +29,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mihirdas77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mihirdas77/mihirdas77/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mihirdas77/mihirdas77/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mihirdas77/mihirdas77/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
