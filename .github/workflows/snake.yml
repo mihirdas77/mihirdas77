@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: mihirdas77/snk@master
+      - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.mihirdas77 }}
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
