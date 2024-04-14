@@ -11,6 +11,8 @@
 <img align="right" alt="Coding" width="422" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
  🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me <a href="rishavchanda0@gmail.com">mihirdas7707@gmail.com</a> <br><br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mihirdas77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -22,6 +24,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=mihirdas77&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirdas77&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mihirdas77&theme=radical&hide_border=false)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mihirdas77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 
