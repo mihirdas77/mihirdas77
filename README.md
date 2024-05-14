@@ -27,7 +27,13 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mihirdas77&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<p align="center">
+<a href="https://github.com/mihirdas77"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirdas77&theme=dracula" />
+</span></a> </p><hr clear="both">
 <img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
 
 
 
