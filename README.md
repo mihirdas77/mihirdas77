@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="422" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
- 🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me <a href="mihirdas7707@gmail.com">mihirdas7707@gmail.com</a> <br><br>
+ 🌱 I’m currently learning Full Stack Web Development <br><br>💬 Ask me about Frontend <br><br>⚡ Fun fact I am  funny<br><br> 📫 How to reach me [mail](mihirdas7707@gmail.com) <br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mihirdas77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
