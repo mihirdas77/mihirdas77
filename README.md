@@ -1,4 +1,4 @@
-[![](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://visitcount.itsvg.in)
+[![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://visitcount.itsvg.in)
 
 <h1 align="center">👋 Hey! I'm Mihir Das</h1>
 
