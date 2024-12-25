@@ -1,4 +1,4 @@
-[<img src="https://www.webweaver.nu/clipart/img/seasons/rainbows/rainbow-slide.gif" width="2000" height="250">](https://visitcount.itsvg.in)
+[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="" height="">](https://visitcount.itsvg.in)
 
 
 <h1 align="center">👋 Hey! I'm Mihir Das</h1>
