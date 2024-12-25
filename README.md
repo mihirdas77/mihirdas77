@@ -1,4 +1,5 @@
-[![](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMjk0NDUsIm5iZiI6MTcyNTAyOTE0NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMwVDE0NDU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhMjkyZjg5MjBhNGI0MDYwZGViNTJlODUxYjUyYTQ2Yzc5YTExMzgzNzA2ODc3NDgxMmU3YTBmMzU0ODYyMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Gsw1ooc0SXNX7VW0A9XMzbgVnrvVMo2u-nQNWG2XLJw)](https://visitcount.itsvg.in)
+[<img src="https://www.webweaver.nu/clipart/img/seasons/rainbows/rainbow-slide.gif" width="2000" height="250">](https://visitcount.itsvg.in)
+
 
 <h1 align="center">👋 Hey! I'm Mihir Das</h1>
 
